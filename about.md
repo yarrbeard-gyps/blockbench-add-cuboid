@@ -1,0 +1,1 @@
+Adds **Add Cuboid...** to the outliner's **+ Add Element** menu: a mesh box with an exact **Width (X)**, **Height (Y)** and **Depth (Z)**, a position, and the origin at the bottom centre or the centre. The last sizes are remembered.
